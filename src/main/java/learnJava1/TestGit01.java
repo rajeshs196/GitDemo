@@ -7,5 +7,7 @@ public class TestGit01
 		System.out.println("this is to test git learning");
 		System.out.println("this is to test git learning 10");
 		System.out.println("this is to test git learning20");
+		
+		System.out.println("update from git demo");
 	}
 }
