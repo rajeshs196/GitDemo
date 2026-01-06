@@ -5,5 +5,7 @@ public class TestGit01
 	public static void main(String[] args) 
 	{
 		System.out.println("this is to test git learning");
+		System.out.println("this is to test git learning 10");
+		System.out.println("this is to test git learning20");
 	}
 }
