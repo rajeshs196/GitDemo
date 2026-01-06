@@ -17,4 +17,9 @@ public class TestGit01
 	{
 		System.out.println("new method develop branch");
 	}
+	
+	public void getAmericanbranch() 
+	{
+		System.out.println("new method develop us branch");
+	}
 }
