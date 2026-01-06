@@ -9,5 +9,12 @@ public class TestGit01
 		System.out.println("this is to test git learning20");
 		
 		System.out.println("update from git demo");
+		
+		System.out.println("update after creating git branch develop");
+	}
+	
+	public void getD() 
+	{
+		System.out.println("new method develop branch");
 	}
 }

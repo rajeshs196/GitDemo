@@ -31,4 +31,9 @@ public class FactorialIterative
 	{
 		return (h == 1 || h == 0) ? 1: h * ternaryfact(h - 1);
 	}
+	
+	public void Steup() 
+	{
+		System.out.println("the streets branch");
+	}
 }
