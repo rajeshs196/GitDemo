@@ -15,6 +15,6 @@ public class TestGit01
 	
 	public void getD() 
 	{
-		System.out.println("new method develop branch");
+		System.out.println("new method develop branchmm");
 	}
 }
